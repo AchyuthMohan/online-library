@@ -18,6 +18,13 @@ a{
 .common{
     margin-top: auto
 }
+#con{
+    background-image: url("https://www.libraryjournal.com/binaries/content/gallery/23921213284_08f2f45b76_c.jpg");
+}
+#achyut{
+    height:fit-content;
+    width:auto
+}
 .links>a{
     float: left;
   display: inline-block;
@@ -26,6 +33,11 @@ a{
   margin: 0;
   color: #fff;
   background-color: #4C8331;
+}
+table{
+    border:2px;
+    font-size: 20px;
+    background-color: cornsilk;
 }
 #apple{
     background-color: chocolate;
